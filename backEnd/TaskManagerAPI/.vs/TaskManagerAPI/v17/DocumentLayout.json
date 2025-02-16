@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4538478F-B72C-4689-9F56-7440CA437169}|TaskManagerAPI.csproj|c:\\users\\gigabyte\\desktop\\taskmanager expressglass\\taskmanager\\backend\\taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4538478F-B72C-4689-9F56-7440CA437169}|TaskManagerAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC18B479-F1FB-4A7D-886C-F96D735A31C6}|TaskManagerAPI.csproj|c:\\users\\gigabyte\\desktop\\taskmanager expressglass\\taskmanager\\backend\\taskmanagerapi\\controllers\\taskclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC18B479-F1FB-4A7D-886C-F96D735A31C6}|TaskManagerAPI.csproj|solutionrelative:controllers\\taskclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC18B479-F1FB-4A7D-886C-F96D735A31C6}|TaskManagerAPI.csproj|c:\\users\\gigabyte\\desktop\\taskmanager expressglass\\taskmanager\\backend\\taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC18B479-F1FB-4A7D-886C-F96D735A31C6}|TaskManagerAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC18B479-F1FB-4A7D-886C-F96D735A31C6}|TaskManagerAPI.csproj|c:\\users\\gigabyte\\desktop\\taskmanager expressglass\\taskmanager\\backend\\taskmanagerapi\\controllers\\models\\taskclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC18B479-F1FB-4A7D-886C-F96D735A31C6}|TaskManagerAPI.csproj|solutionrelative:controllers\\models\\taskclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC18B479-F1FB-4A7D-886C-F96D735A31C6}|TaskManagerAPI.csproj|c:\\users\\gigabyte\\desktop\\taskmanager expressglass\\taskmanager\\backend\\taskmanagerapi\\controllers\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC18B479-F1FB-4A7D-886C-F96D735A31C6}|TaskManagerAPI.csproj|solutionrelative:controllers\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TaskClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\Controllers\\TaskClassesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskClassesController.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\Controllers\\TaskClassesController.cs",
+              "RelativeToolTip": "Controllers\\TaskClassesController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwEIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:11:23.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T01:52:14.489Z",
+              "WhenOpened": "2025-02-16T22:09:00.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\Controllers\\Models\\TaskContext.cs",
+              "RelativeDocumentMoniker": "Controllers\\Models\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\Controllers\\Models\\TaskContext.cs",
+              "RelativeToolTip": "Controllers\\Models\\TaskContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:07:21.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskClass.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\Controllers\\Models\\TaskClass.cs",
+              "RelativeDocumentMoniker": "Controllers\\Models\\TaskClass.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\Controllers\\Models\\TaskClass.cs",
+              "RelativeToolTip": "Controllers\\Models\\TaskClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:05:44.948Z",
               "EditorCaption": ""
             }
           ]
