@@ -6,9 +6,15 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
-builder.Services.AddDbContext<TaskContext>(opt =>
-    opt.UseInMemoryDatabase("TodoList"));
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+// Add SQL database connection
+var connectionString = "Server=localhost\\MSSQLSERVER01;Database=TaskManagerDB;Trusted_Connection=True;TrustServerCertificate=True;";
+builder.Services.AddDbContext<TaskContext>(options =>
+    options.UseSqlServer(connectionString));
+
+// Used for temporary just in web save data
+//builder.Services.AddDbContext<TaskContext>(opt => 
+//    opt.UseInMemoryDatabase("TodoList"));
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
