@@ -1,11 +1,77 @@
 {
   "Version": 1,
-  "Hash": "diSTGmGL+6Ux6e7DUqzhVRG/FBLEGPX0ZH0CT9kX2AY=",
+  "Hash": "cup12gntn5X2NajHXJVlvVguLknwIPlsCsHYiGIaAYw=",
   "Source": "TaskManagerAPI",
   "BasePath": "_content/TaskManagerAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "TaskManagerAPI\\wwwroot",
+      "Source": "TaskManagerAPI",
+      "ContentRoot": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\wwwroot\\",
+      "BasePath": "_content/TaskManagerAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\wwwroot\\css\\site.css",
+      "SourceId": "TaskManagerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\wwwroot\\",
+      "BasePath": "_content/TaskManagerAPI",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\wwwroot\\index.html",
+      "SourceId": "TaskManagerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\wwwroot\\",
+      "BasePath": "_content/TaskManagerAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\wwwroot\\js\\site.js",
+      "SourceId": "TaskManagerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\wwwroot\\",
+      "BasePath": "_content/TaskManagerAPI",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
 }

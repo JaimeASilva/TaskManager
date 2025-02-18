@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\TaskManager ExpressGlass\\TaskManager\\backEnd\\TaskManagerAPI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TaskManagerAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TaskManagerAPI.props",
+      "PackagePath": "build\\TaskManagerAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskManagerAPI.props",
+      "PackagePath": "buildMultiTargeting\\TaskManagerAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TaskManagerAPI.props",
+      "PackagePath": "buildTransitive\\TaskManagerAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

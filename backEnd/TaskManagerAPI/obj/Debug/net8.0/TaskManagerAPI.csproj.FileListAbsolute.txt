@@ -284,3 +284,4 @@ C:\Users\GIGABYTE\Desktop\TaskManager ExpressGlass\TaskManager\backEnd\TaskManag
 C:\Users\GIGABYTE\Desktop\TaskManager ExpressGlass\TaskManager\backEnd\TaskManagerAPI\obj\Debug\net8.0\TaskManagerAPI.pdb
 C:\Users\GIGABYTE\Desktop\TaskManager ExpressGlass\TaskManager\backEnd\TaskManagerAPI\obj\Debug\net8.0\TaskManagerAPI.genruntimeconfig.cache
 C:\Users\GIGABYTE\Desktop\TaskManager ExpressGlass\TaskManager\backEnd\TaskManagerAPI\obj\Debug\net8.0\ref\TaskManagerAPI.dll
+C:\Users\GIGABYTE\Desktop\TaskManager ExpressGlass\TaskManager\backEnd\TaskManagerAPI\bin\Debug\net8.0\TaskManagerAPI.staticwebassets.runtime.json
